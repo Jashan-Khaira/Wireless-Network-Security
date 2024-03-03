@@ -213,5 +213,5 @@ As seen below.
 
 
 ---
-Congratulations! You have completed the Wi-Fi Hacking Lab. By following the steps outlined in this guide, you have gained valuable insights into the intricacies of wireless network security and the tools used for penetration testing. Remember, with great knowledge comes great responsibility. Always ensure that you apply your newfound skills ethically and responsibly, respecting the privacy and security of others. Continuously expand your knowledge and stay updated with the latest developments in cybersecurity. Happy hacking, and may your endeavors contribute to a safer and more secure digital world.
+Congratulations! We have completed the Wi-Fi Hacking Lab. By following the steps outlined in this guide, we have gained valuable insights into the intricacies of wireless network security and the tools used for penetration testing. Remember, with great knowledge comes great responsibility. Always ensure that you apply your newfound skills ethically and responsibly, respecting the privacy and security of others. Continuously expand your knowledge and stay updated with the latest developments in cybersecurity. Happy hacking, and may your endeavors contribute to a safer and more secure digital world.
 ---
